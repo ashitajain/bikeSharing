@@ -58,7 +58,7 @@ The following files are present inside datasets folder:
 
 ## Contact (GitHub)
 Created by: 
-- [Shubhanshu Kumar Singh](https://github.com/shubhanshu1995) 
+- [Ashita Jain](https://github.com/ashitajain) 
 
 ## Connect with me on LinkedIn:-
-- [shubhanshu001](https://www.linkedin.com/in/shubhanshu001/)
+- [ashitajain001](https://www.linkedin.com/in/ashitajain001/)
